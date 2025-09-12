@@ -1,6 +1,7 @@
 <div align="center">
   <h1>💱 Conversor de Moedas</h1>
   <p>Um conversor de moedas moderno e responsivo desenvolvido com <b>React</b> (frontend) e <b>Go</b> (backend).</p>
+  <img src="frontend/screenshots/Conversor.png" alt="Interface do Conversor de Moedas" width="600">
 </div>
 
 ## 📋 Sobre o Projeto
@@ -52,8 +53,6 @@ npm run dev
 O aplicativo frontend estará disponível em `http://localhost:5173`.
 
 ## 📱 Interface do Projeto
-
-![Interface do Conversor de Moedas](frontend/screenshots/interface.png)
 
 A interface do projeto apresenta um design moderno e intuitivo, com um formulário para inserção do valor a ser convertido e seleção das moedas de origem e destino. O resultado da conversão é exibido de forma clara e destacada.
 
