@@ -53,6 +53,8 @@ O aplicativo frontend estará disponível em `http://localhost:5173`.
 
 ## 📱 Interface do Projeto
 
+![Interface do Conversor de Moedas](frontend/screenshots/interface.png)
+
 A interface do projeto apresenta um design moderno e intuitivo, com um formulário para inserção do valor a ser convertido e seleção das moedas de origem e destino. O resultado da conversão é exibido de forma clara e destacada.
 
 
